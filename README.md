@@ -6,7 +6,6 @@
 3. [Case Study #2: Model Comparison for Bike Demand Prediction](#case-study-2-model-comparison-for-bike-demand-prediction)  
 4. [Getting Started](#getting-started)  
 5. [Requirements](#requirements)  
-6. [License](#license)  
 
 ---
 
@@ -76,6 +75,19 @@ Compare the performance of Random Forest (RF), Extreme Gradient Boosting (XGBoos
 ### Prerequisites  
 - Python 3.x  
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost  
+
+
+## Requirements  
+
+- **Python** >= 3.6  
+- **Required Libraries**:  
+  - `pandas`  
+  - `numpy`  
+  - `scikit-learn`  
+  - `matplotlib`  
+  - `seaborn`  
+  - `xgboost`  
+
 
 ### Installation  
 Clone the repository:  
