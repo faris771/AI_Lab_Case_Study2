@@ -80,5 +80,5 @@ Compare the performance of Random Forest (RF), Extreme Gradient Boosting (XGBoos
 ### Installation  
 Clone the repository:  
 ```bash  
-git clone <repository-url>  
-cd <repository-directory>  
+git clone https://github.com/faris771/Bike-Sharing-Dataset-Analysis
+cd BreadcrumbsBike-Sharing-Dataset-Analysis 
